@@ -4,9 +4,9 @@
 
 Inspration:
 
-.[User Interface]([https://pin.it/3j45LcXSX](https://pin.it/3OEehYU7C)
+[User Interface](https://pin.it/3OEehYU7C)
 
-.[Branded Components](https://pin.it/3j45LcXSX)
+[Branded Components](https://pin.it/3j45LcXSX)
 
 Low Fidelity Wireframes:
 
