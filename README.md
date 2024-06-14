@@ -1,4 +1,4 @@
-# Semester 1 Project 231207
+# TechSearch
  
 [Api Research](https://github.com/JoshuaDeKlerk/231207_DV200_Final_Semester-1_Joshua-De-Klerk/files/14371596/Api.Research.pdf)
 
